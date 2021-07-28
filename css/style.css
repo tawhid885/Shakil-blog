@@ -1,0 +1,19 @@
+/* --------------universal css--------------  */
+
+
+/* --------------css for headers--------------  */
+header{
+
+}
+nav form{
+    margin-left: 200px;
+}
+nav ul li{
+    margin-right: 20px;
+}
+.search-form{
+    width: 350px;
+}
+.search-icon{
+    margin-left: 10px;
+}
